@@ -9,7 +9,7 @@ Java script, React, Webstorm, Vs code
                         </a>
 
                         <div class="gallery-text">
-                            <h2>123</h2>
+                            <h2>1234</h2>
                         </div>
                     </div>
                 </div>`
