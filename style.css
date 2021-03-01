@@ -48,3 +48,7 @@ img{
 li{
     list-style-type: none;
 }
+.code{
+    background-color: #b8c8dc;
+    border-radius: 7px
+}
