@@ -6,49 +6,79 @@
 }
 
 
-img{
+img {
     width: 250px;
+    border-radius: 50%;
 }
-.container{
+
+.container {
     max-width: 1200px;
     margin: 0 auto;
 }
-.header{
+
+.header {
     display: flex;
-    background-color: aquamarine;
+    background-color: whitesmoke;
 }
-.photo{
+
+.photo {
 
 }
-.myphoto{
+
+.myphoto {
     width: 200px;
 }
-.myname{
+
+.myname {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    padding-left: 100px;
+    padding-left: 35px;
     padding-top: 100px;
 
 
 }
 
 
-.main{
+.main {
     display: flex;
-    background-color: aquamarine;
+    background-color: whitesmoke;
 }
-.left{
-    width:40%;
+
+.left {
+    width: 30%;
     min-width: 380px;
-    background: coral;
+    background: rgba(0, 170, 238, 0.5);
     padding-top: 20px;
-    padding-left: 30px ;
+    padding-left: 30px;
 }
-li{
+
+.right {
+    padding-left: 40px;
+    padding-bottom: 30px;
+}
+
+li {
     list-style-type: none;
 }
-.code{
+
+.code {
     background-color: #b8c8dc;
     border-radius: 7px
+}
+
+.code__p {
+    padding: 10px 20px 10px 10px;
+}
+
+h1, h2, h3, h4 {
+    color: rgb(87, 84, 84);
+}
+
+p {
+    color: rgb(87, 84, 84);
+}
+
+ul {
+    color: rgb(87, 84, 84);
 }
