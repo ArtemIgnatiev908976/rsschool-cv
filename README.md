@@ -1,6 +1,6 @@
 # rsschool-cv
 1. https://rolling-scopes-school.github.io/stage0/#/stag..
-2. ![screenshot](https://user-images.githubusercontent.com/56636626/11..)
+2. https://yadi.sk/i/ABK9cx-DjserUw
 3. Deploy https://distracted-clarke-2cabec.netlify.app/
 4. Done 07.03.2020 / deadline 08.03.2020
 5. Score: 90 / 100
