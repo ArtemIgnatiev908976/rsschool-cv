@@ -91,3 +91,10 @@ ul {
     justify-content: space-evenly;
     padding: 20px;
 }
+
+.footer__icon {
+    width: 80px;
+}
+.footer__text {
+    font-size: 0.3rem;
+}
